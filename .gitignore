@@ -1,0 +1,16 @@
+gitignore
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+*.db
+data/*
+!data/.gitkeep
+storage/*
+!storage/.gitkeep
+evaluation/results/*
+!evaluation/results/.gitkeep
+.streamlit/secrets.toml

@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+pydantic-settings
+python-dotenv
+httpx
+streamlit
+sqlalchemy
+pymysql
+groq
+pytest
