@@ -1,4 +1,3 @@
-gitignore
 .venv/
 venv/
 __pycache__/
@@ -14,3 +13,5 @@ storage/*
 evaluation/results/*
 !evaluation/results/.gitkeep
 .streamlit/secrets.toml
+try_*.py
+data/*.pdf
